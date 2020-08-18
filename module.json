@@ -1,0 +1,16 @@
+{
+    "name": "mute",
+    "author": "Merk",
+    "description": "",
+    "version": "0.1.0",
+    "options": {
+        "reloadable": true,
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings.js"
+    },
+    "servers": [],
+    "dependencies": {
+        "badGui": "https://raw.githubusercontent.com/codeagon/badGui/master/"
+    }
+}
