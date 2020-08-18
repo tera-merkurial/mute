@@ -9,7 +9,9 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings.js"
     },
-    "servers": [],
+    "servers": [
+        "https://raw.githubusercontent.com/tera-merkurial/mute/master/"
+    ],
     "dependencies": {
         "badGui": "https://raw.githubusercontent.com/codeagon/badGui/master/"
     }
